@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="enter_the_string">Enter the string</string>
+    <string name="check_occurance">Check Occurrence</string>
+    <string name="positive_result">Text Starts with Alphabet in the range [A-Z]</string>
+    <string name="negative_result">Text does not start with Alphabet in the range [A-Z]</string>
+</resources>
